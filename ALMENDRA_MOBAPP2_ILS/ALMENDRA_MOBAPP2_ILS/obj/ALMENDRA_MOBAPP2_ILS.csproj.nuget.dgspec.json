@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj": {}
+    "C:\\Users\\My Computer\\OneDrive\\Documents\\GitHub\\Mobapp_ils\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj": {}
   },
   "projects": {
-    "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj": {
+    "C:\\Users\\My Computer\\OneDrive\\Documents\\GitHub\\Mobapp_ils\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj",
+        "projectUniqueName": "C:\\Users\\My Computer\\OneDrive\\Documents\\GitHub\\Mobapp_ils\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj",
         "projectName": "ALMENDRA_MOBAPP2_ILS",
-        "projectPath": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj",
+        "projectPath": "C:\\Users\\My Computer\\OneDrive\\Documents\\GitHub\\Mobapp_ils\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj",
         "packagesPath": "C:\\Users\\My Computer\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\obj\\",
+        "outputPath": "C:\\Users\\My Computer\\OneDrive\\Documents\\GitHub\\Mobapp_ils\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\obj\\",
         "projectStyle": "PackageReference",
         "skipContentFileWrite": true,
         "fallbackFolders": [
