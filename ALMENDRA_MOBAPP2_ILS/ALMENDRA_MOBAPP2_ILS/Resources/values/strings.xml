@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">YANGAPP</string>
+	<string name="info">Sender and Receiver info</string>
+    <string name="action_settings">Settings</string>
+	<string-array name="spinner1_array">
+		<item>Region I - Ilocos Region</item>
+		<item>Region II - Cagayan Valley</item>
+		<item>Region III - Central Luzon</item>
+		<item>Region IV-A - CALABARZON</item>
+		<item>Region IV-B - MIMAROPA</item>
+		<item>Region V - Bicol Region</item>
+		<item>Region CAR - Cordillera Administrative Region</item>
+		<item>Region NCR - National Capital Region</item>
+	</string-array>
+
+	<string-array name="spinner2_array">
+		<item>1kg-5kg</item>
+		<item>6kg-15kg</item>
+		<item>15kg-30kg</item>
+		<item>30kg-50kg</item>
+	</string-array>
+	<string-array name="spinner3_array">
+		<item>0-300</item>
+		<item>301-700</item>
+		<item>701-1000</item>
+		<item>1001-5000</item>
+	</string-array>
+</resources>

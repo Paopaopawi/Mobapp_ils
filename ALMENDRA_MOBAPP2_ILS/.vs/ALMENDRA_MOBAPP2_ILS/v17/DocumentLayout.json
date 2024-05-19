@@ -1,0 +1,237 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\resources\\layout\\xmlfile3.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\layout\\xmlfile3.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\receipt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\resources\\layout\\xmlfile1.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\layout\\xmlfile1.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\resources\\layout\\xmlfile4.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\layout\\xmlfile4.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|c:\\users\\my computer\\source\\repos\\almendra_mobapp2_ils\\almendra_mobapp2_ils\\resources\\layout\\xmlfile2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\layout\\xmlfile2.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|c:\\users\\my computer\\source\\repos\\almendra_mobapp2_ils\\almendra_mobapp2_ils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\mainactivity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\n.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\layout\\activity_main.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\resources\\layout\\xmlfile2.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\layout\\xmlfile2.xml||{A4B51DF8-501B-45AD-A022-1A0D18A2B7B0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\values\\colors.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\almendra_mobapp2_ils\\resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2CB9710F-47D0-452E-9910-13462AFAD199}|ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS.csproj|solutionrelative:almendra_mobapp2_ils\\resources\\values\\strings.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "colors.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\values\\colors.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\values\\colors.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\values\\colors.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\values\\colors.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T06:25:15.839Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Class1.cs",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Class1.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Class1.cs",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T23:00:11.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "XMLFile2.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAkwCoAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T22:54:53.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile1.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile1.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile1.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T22:17:08.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "XMLFile4.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile4.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile4.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile4.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile4.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T20:41:22.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "XMLFile3.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile3.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile3.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile3.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile3.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T19:19:40.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "receipt.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\receipt.cs",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\receipt.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\receipt.cs",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\receipt.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwCkAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T19:13:24.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "payment.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\payment.cs",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\payment.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\payment.cs",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\payment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T13:05:18.522Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "n.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\n.cs",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\n.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\n.cs",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\n.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAA0AAABDAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T09:29:20.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "XMLFile2.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\XMLFile2.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T13:05:11.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "strings.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\values\\strings.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\values\\strings.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\values\\strings.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\values\\strings.xml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T08:16:01.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainActivity.cs",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\MainActivity.cs",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\MainActivity.cs",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\MainActivity.cs",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\MainActivity.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAABEAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T04:07:15.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "activity_main.xml",
+              "DocumentMoniker": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\activity_main.xml",
+              "RelativeDocumentMoniker": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\activity_main.xml",
+              "ToolTip": "C:\\Users\\My Computer\\source\\repos\\ALMENDRA_MOBAPP2_ILS\\ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\activity_main.xml",
+              "RelativeToolTip": "ALMENDRA_MOBAPP2_ILS\\Resources\\layout\\activity_main.xml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2024-05-19T05:03:47.554Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

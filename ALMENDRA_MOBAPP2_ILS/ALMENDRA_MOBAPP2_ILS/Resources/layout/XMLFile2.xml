@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bg">
+
+    <ImageView
+     android:layout_width="match_parent"
+     android:layout_height="110dp"
+     android:src="@drawable/rider" 
+     android:scaleType="fitCenter"
+     android:id="@+id/imageView1"
+     android:layout_marginTop="20dp"
+/>
+    <androidx.cardview.widget.CardView
+        android:layout_width="280dp"
+        android:layout_height="290dp"
+        android:layout_centerHorizontal="true"
+        android:id="@+id/cardView1"
+        android:layout_below="@id/imageView1"
+        app:cardCornerRadius="10dp"
+        app:contentPaddingLeft="15dp"
+        app:contentPaddingTop="10dp">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PAYMENT"
+            android:textSize="25dp"
+            android:layout_gravity="center_horizontal"
+            android:id="@+id/textView1"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@color/light_pink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Total: "
+            android:textSize="14dp"
+            android:id="@+id/textView2"
+            android:layout_marginTop="50dp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@color/light_pink"/>
+        <EditText
+            android:layout_width="240dp"
+            android:layout_height="50dp"
+            android:hint="Enter payment"
+            android:id="@+id/editText1"
+            android:layout_marginTop="140dp"
+            android:fontFamily="sans-serif-smallcaps"
+            android:textColor="@color/light_pink"
+            />
+        <CheckBox
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="I confirm this payment"
+            android:layout_marginTop="180dp"
+            android:id="@+id/checkBox1"/>
+        <Button
+            android:layout_width="140dp"
+            android:layout_height="45dp"
+            android:layout_marginTop="220dp"
+            android:layout_gravity="center_horizontal"
+            android:backgroundTint="@color/light_pink"
+            android:text="Pay Now"
+            android:id="@+id/button1"
+            android:layout_marginBottom="20dp"
+            android:enabled="false"
+            />
+    </androidx.cardview.widget.CardView>
+</RelativeLayout>
